@@ -8,7 +8,7 @@ module.exports = async function App(context) {
   if (context.event.isText) {
     return withProps(check,{claim: context.event.text} );
   }
-  // else if (context.event.text.trim() == "/help"){
-  //   return help;
-  // }
+  else if (context.event.text.trim() == "/help"){
+     return help;
+  }
 };

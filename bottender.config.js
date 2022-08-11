@@ -40,7 +40,7 @@ module.exports = {
     },
     line: {
       enabled: true,
-      path: '/webhooks/line',
+      path: 'https://milestone02-k17.herokuapp.com/webhooks/line',
       accessToken: process.env.LINE_ACCESS_TOKEN,
       channelSecret: process.env.LINE_CHANNEL_SECRET,
     },

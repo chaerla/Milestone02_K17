@@ -13,6 +13,6 @@ module.exports = async function App(context) {
   } else if (context.event.text.trim() === "/help") {
     return help;
   } else {
-    return error
+    return error;
   }
 };

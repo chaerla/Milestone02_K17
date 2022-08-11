@@ -2,6 +2,7 @@ const check = require ("./check.js")
 const { withProps} = require('bottender');
 const help = require ("./help.js")
 const about = require ("./about.js")
+const error = require ("./error.js")
 
 module.exports = async function App(context) {
   await context.sendText('Welcome to Bottender');
@@ -11,5 +12,7 @@ module.exports = async function App(context) {
     return about;
   } else if (context.event.text.trim() === "/help") {
     return help;
+  } else {
+    return error
   }
 };

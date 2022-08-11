@@ -7,9 +7,9 @@ module.exports = async function App(context) {
   await context.sendText('Welcome to Bottender');
   if (context.event.isText) {
     return withProps(check,{claim: context.event.text} );
-  } else if (context.event.text.trim() == "/about") {
+  } else if (context.event.text.trim() === "/about") {
     return about;
-  } else if (context.event.text.trim() == "/help") {
+  } else if (context.event.text.trim() === "/help") {
     return help;
   }
 };

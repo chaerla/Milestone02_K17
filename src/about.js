@@ -1,7 +1,7 @@
 module.exports = async function about(context){
     const template = [
         {
-          imageUrl: '../pic_assets/twibbon_sparta.png',
+          imageUrl: 'https://i.ibb.co/mSNkWvj/twibbon-sparta.png',
           action: {
             type: 'message',
             label: 'Ini Twibbon',

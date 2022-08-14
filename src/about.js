@@ -129,22 +129,7 @@ module.exports = async function about(context) {
   ];
   await context.sendImageCarouselTemplate(altText, crewlist_2);
 
-  let str = `AHC (Anti Hoax Checker) adalah LINE Chatbot yang dibuat oleh Kelompok “Sweet Seventeen” pada SPARTA HMIF 2022 yang bertujuan untuk memberikan validasi terhadap klaim dari berita yang dibaca oleh netizen. Chatbot ini diharapkan menjadi solusi permasalahan misinformasi atau hoaks yang tersebar di sosial media. Chatbot ini dibuat dengan menggunakan framework Bottender.js dan mengambil data dari Google Fact Checker Tools API.`
+  let str = `𝗦𝗔𝗛 (𝗦𝗨𝗗𝗢 𝗔𝗻𝘁𝗶 𝗛𝗼𝗮𝘅) adalah LINE Chatbot yang dibuat oleh Kelompok “Sweet Seventeen” pada SPARTA HMIF 2022 yang bertujuan untuk memberikan validasi terhadap klaim dari berita yang dibaca oleh netizen. Chatbot ini diharapkan menjadi solusi permasalahan misinformasi atau hoaks yang tersebar di sosial media. Chatbot ini dibuat dengan menggunakan framework Bottender.js dan mengambil data dari Google Fact Checker Tools API.`
   await context.sendText(str);
 }
 ;
-
-/* module.exports = async function about(context){
-    const template = [
-        {
-          imageUrl: 'https://i.ibb.co/mSNkWvj/twibbon-sparta.png',
-          action: {
-            type: 'message',
-            label: 'Ini Twibbon',
-            text: 'Ini Twibbon loh',
-          }
-        }
-      ];
-      const altText = 'this is a image carousel template';
-      await context.sendImageCarouselTemplate(altText, template);
-} */

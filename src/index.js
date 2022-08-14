@@ -11,6 +11,8 @@ module.exports = async function App(context) {
     return about;
   } else if (context.event.text.trim() === "/help") {
     return help;
+  } else if (context.event.text.trim() === "/check") {
+    return error;
   } else {
     return error;
   }

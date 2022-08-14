@@ -3,6 +3,7 @@ const { withProps} = require('bottender');
 const help = require ("./help.js")
 const about = require ("./about.js")
 const error = require ("./error.js")
+const errorCheck = require("./errorCheck.js")
 
 module.exports = async function App(context) {
   if (context.event.text.trim() === "/check") {

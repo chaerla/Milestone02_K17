@@ -1,7 +1,7 @@
 module.exports = async function about(context) {
   const crewlist_1 = [
     {
-      imageUrl: "https://ibb.co/7C4ZStF",
+      imageUrl: "https://i.ibb.co/DWpv1fn/16521235-Attariq-M-Azhar.jpg",
       action: {
         type: "message",
         label: "16521235",
@@ -9,7 +9,7 @@ module.exports = async function about(context) {
       },
     },
     {
-      imageUrl: "https://ibb.co/2hYB0RC",
+      imageUrl: "https://i.ibb.co/6wJ5cGT/16521070-Akmal-Mahardika-Nurwahyu-Pratama.jpg",
       action: {
         type: "message",
         label: "16521070",
@@ -17,7 +17,7 @@ module.exports = async function about(context) {
       },
     },
     {
-      imageUrl: "https://ibb.co/k4WV4ZV",
+      imageUrl: "https://i.ibb.co/dPzsPZs/16521075-Muhamad-Pedro.jpg",
       action: {
         type: "message",
         label: "16521075",
@@ -25,7 +25,7 @@ module.exports = async function about(context) {
       },
     },
     {
-      imageUrl: "https://ibb.co/ZHPsFkm",
+      imageUrl: "https://i.ibb.co/z8YcB0J/16521161-Rachel-Gabriela-Chen.jpg",
       action: {
         type: "message",
         label: "16521161",
@@ -33,7 +33,7 @@ module.exports = async function about(context) {
       },
     },
     {
-      imageUrl: "https://ibb.co/CKtBgHV",
+      imageUrl: "https://i.ibb.co/4RfWzV4/16521205-Aufar-Ramadhan.jpg",
       action: {
         type: "message",
         label: "16521205",
@@ -41,7 +41,7 @@ module.exports = async function about(context) {
       },
     },
     {
-      imageUrl: "https://ibb.co/9YpWLWK",
+      imageUrl: "https://i.ibb.co/88m9p9v/16521249-Brigita-Tri-Carolina.png",
       action: {
         type: "message",
         label: "16521249",
@@ -49,7 +49,7 @@ module.exports = async function about(context) {
       },
     },
     {
-      imageUrl: "https://ibb.co/gZTXZ18",
+      imageUrl: "https://i.ibb.co/7tWTtcD/16521303-Hobert-Anthony-Jonatan.jpg",
       action: {
         type: "message",
         label: "16521303",
@@ -57,7 +57,7 @@ module.exports = async function about(context) {
       },
     },
     {
-      imageUrl: "https://ibb.co/26cnx7v",
+      imageUrl: "https://i.ibb.co/DbwVhD9/16521318-Shidqi-Indy-Izhari.png",
       action: {
         type: "message",
         label: "16521318",
@@ -70,7 +70,7 @@ module.exports = async function about(context) {
 
   const crewlist_2 = [
     {
-      imageUrl: "https://ibb.co/Bcxy6bY",
+      imageUrl: "https://i.ibb.co/yd16ktx/16521326-Silvester-Kresna-W-P-P.png",
       action: {
         type: "message",
         label: "16521326",
@@ -78,7 +78,7 @@ module.exports = async function about(context) {
       },
     },
     {
-      imageUrl: "https://ibb.co/TwLsM41",
+      imageUrl: "https://i.ibb.co/HKdjTtC/16521334-Aulia-Mey-Diva-Annandya.jpg",
       action: {
         type: "message",
         label: "16521334",
@@ -86,7 +86,7 @@ module.exports = async function about(context) {
       },
     },
     {
-      imageUrl: "https://ibb.co/12ppJ36",
+      imageUrl: "https://i.ibb.co/dK33JSg/16521457-Filbert-Felim.jpg",
       action: {
         type: "message",
         label: "16521457",
@@ -94,7 +94,7 @@ module.exports = async function about(context) {
       },
     },
     {
-      imageUrl: "https://ibb.co/DtS5gWV",
+      imageUrl: "https://i.ibb.co/56fBx4M/16521477-Cathleen-Laureta.jpg",
       action: {
         type: "message",
         label: "16521477",
@@ -102,7 +102,7 @@ module.exports = async function about(context) {
       },
     },
     {
-      imageUrl: "https://ibb.co/sw9bBmb",
+      imageUrl: "https://i.ibb.co/cFhkmgk/16521514-Christophorus-Dharma-Winata.jpg",
       action: {
         type: "message",
         label: "16521514",
@@ -110,7 +110,7 @@ module.exports = async function about(context) {
       },
     },
     {
-      imageUrl: "https://ibb.co/wzZ5JWz",
+      imageUrl: "https://i.ibb.co/nLqx3cL/16521516-Ahmad-Nadil.png",
       action: {
         type: "message",
         label: "16521516",
@@ -118,7 +118,7 @@ module.exports = async function about(context) {
       },
     },
     {
-      imageUrl: "https://ibb.co/WfT9ZjR",
+      imageUrl: "https://i.ibb.co/0rwNTvz/16521547-Agsha-Athalla-Nurkareem.png",
       action: {
         type: "message",
         label: "16521547",

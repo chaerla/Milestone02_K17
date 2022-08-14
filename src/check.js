@@ -4,12 +4,18 @@ const API_KEY = "AIzaSyCsET4iZRhfUz0qHOT7WprfsOWTSRDEEyA"
 module.exports = async function check(context, props) {
     let obj, claim, review, publisher, url;
     let text =""
-    let query = encodeURIComponent(props.claim);
+    let strLen = props.claim.length;
+    let query = encodeURIComponent(props.claim.slice(8, strLen));
     const res = await fetch("https://factchecktools.googleapis.com/v1alpha1/claims:search?query=" + query + "&key=" + API_KEY)
     obj = await res.json();
-    console.log(obj)
     if (Object.keys(obj).length === 0 && obj.constructor === Object){
-        await context.sendText("Maaf. Klaim tidak ditemukan.");
+        await context.sendText(`Maaf, klaim yang kamu masukkan tidak sesuai dengan klaim manapun.
+Silakan coba lagi dengan memperhatikan aspek-aspek berikut:
+1. Gunakan kata kunci yang lebih sederhana
+2. Gunakan kata kunci alternatif
+3. Ubah kata kunci
+4. Pastikan tidak ada kesalahan penulisan pada kata kunci
+`);
     }
     else {
         for (let i=0; i<obj.claims.length;i++){

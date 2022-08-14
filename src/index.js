@@ -3,16 +3,17 @@ const { withProps} = require('bottender');
 const help = require ("./help.js")
 const about = require ("./about.js")
 const error = require ("./error.js")
+const errorCheck = require("./errorCheck.js")
 
 module.exports = async function App(context) {
-  if (context.event.text.trim().split(' ')[0] === '/check') {
+  if (context.event.text.trim() === "/check") {
+    return errorCheck;
+  } else if (context.event.text.trim().split(' ')[0] === '/check') {
     return withProps(check,{claim: context.event.text} );
   } else if (context.event.text.trim() === "/about") {
     return about;
   } else if (context.event.text.trim() === "/help") {
     return help;
-  } else if (context.event.text.trim() === "/check") {
-    return errorCheck;
   } else {
     return error;
   }

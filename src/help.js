@@ -1,16 +1,8 @@
 module.exports = async function help(context){
-    let str = `K17 Fact Checker Bot Help Menu
-    Check
-        Deskripsi 
-        - Fitur check untuk mengecek rating atau klaim dari suatu berita/artikel/fakta.
-        Cara Penggunaan 
-        - /check <judul berita/artikel/fakta>
-        Contoh
-        - /check Vaksin COVID-19 Mematikan
-    About
-        Deskripsi 
-        - Digunakan untuk mengakses informasi umum dari bot K17 Fact Checker Bot
-        Cara Penggunaan
-        - /about`
+    let str = `Untuk menggunakan Chatbot ini, kamu bisa mengirimkan salah satu dari ketiga command berikut:
+    1. /check   : Fitur check digunakan untuk mengecek kebenaran suatu klaim.
+       Contoh: /check Virus Corona tidak berbahaya 
+    2. /help    : Fitur help berisi daftar fitur yang dapat digunakan.  
+    3. /about   : Fitur about berisi tentang kelompok milestone kami serta sumber data yang digunakan.`
     await context.sendText(str);
 }

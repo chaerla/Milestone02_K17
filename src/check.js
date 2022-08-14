@@ -23,10 +23,10 @@ Silakan coba lagi dengan memperhatikan aspek-aspek berikut:
             review = obj.claims[i].claimReview[0].textualRating
             publisher = obj.claims[i].claimReview[0].publisher.name
             url = obj.claims[i].claimReview[0].url
-            text += "\n" + "Klaim: " + claim + "\n" +
-                "Review: " + review + "\n" +
-                "Direview oleh: " + publisher + "\n" +
-                "Baca selengkapnya: " + url + "\n"
+            text += "\n" + "𝗞𝗹𝗮𝗶𝗺: " + claim + "\n" +
+                "𝗥𝗲𝘃𝗶𝗲𝘄: " + review + "\n" +
+                "𝗗𝗶𝗿𝗲𝘃𝗶𝗲𝘄 𝗼𝗹𝗲𝗵: " + publisher + "\n" +
+                "𝗕𝗮𝗰𝗮 𝘀𝗲𝗹𝗲𝗻𝗴𝗸𝗮𝗽𝗻𝘆𝗮: " + url + "\n"
             if (i===2){
                 break;
             }

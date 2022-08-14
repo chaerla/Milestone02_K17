@@ -129,7 +129,7 @@ module.exports = async function about(context) {
   ];
   await context.sendImageCarouselTemplate(altText, crewlist_2);
 
-  let str = `AHC (Anti Hoax Checker) adalah LINE Chatbot yang dibuat oleh Kelompok “Sweet Seventeen” yang bertujuan untuk memberikan validasi terhadap klaim dari berita yang dibaca oleh netizen. Chatbot ini diharapkan menjadi solusi permasalahan misinformasi atau hoaks yang tersebar di sosial media. Chatbot ini dibuat dengan menggunakan framework Bottender.js dan mengambil data dari Google Fact Checker Tools API.`
+  let str = `AHC (Anti Hoax Checker) adalah LINE Chatbot yang dibuat oleh Kelompok “Sweet Seventeen” pada SPARTA HMIF 2022 yang bertujuan untuk memberikan validasi terhadap klaim dari berita yang dibaca oleh netizen. Chatbot ini diharapkan menjadi solusi permasalahan misinformasi atau hoaks yang tersebar di sosial media. Chatbot ini dibuat dengan menggunakan framework Bottender.js dan mengambil data dari Google Fact Checker Tools API.`
   await context.sendText(str);
 }
 ;

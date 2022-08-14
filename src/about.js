@@ -124,8 +124,8 @@ module.exports = async function about(context) {
   const altText = "this is a image carousel template";
   await context.sendImageCarouselTemplate(altText, template);
 };
-=======
-module.exports = async function about(context){
+
+/* module.exports = async function about(context){
     const template = [
         {
           imageUrl: 'https://i.ibb.co/mSNkWvj/twibbon-sparta.png',
@@ -138,4 +138,4 @@ module.exports = async function about(context){
       ];
       const altText = 'this is a image carousel template';
       await context.sendImageCarouselTemplate(altText, template);
-}
+} */

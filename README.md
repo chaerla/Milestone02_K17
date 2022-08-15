@@ -20,7 +20,7 @@ Muhamad Pedro (16521075)
 Ahmad Nadil (16521516)
 Attariq Muhammad A. (16521235)
 Aulia Mey Diva A. (16521334)
-Silvester Kresna W.P.P (16521326)
+Silvester Kresna W.P.P (16521326) : backend fitur about, memikirkan nama bot
 Shidqi Indy Izhari (16521318) 
 
 iv. Petunjuk Penggunaan SAH

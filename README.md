@@ -18,11 +18,11 @@ Berikut merupakan kelompok para kontributor dalam project ini: <br/>
 | 16521477 | [Cathleen Lauretta](https://github.com/cathlauretta) | Design Logo |
 | 16521514 | [Christophorus D.W.](https://github.com/christodharma) | Design Logo |
 | 16521457 | [Filbert Felim](filbertfelim) | UI |
-| 16521249 | [Brigita Tri Carolina](https://github.com/BrigitaCarolina) | | 
+| 16521249 | [Brigita Tri Carolina](https://github.com/BrigitaCarolina) | Backend | 
 | 16521547 | [Agsha Athalla N.](https://github.com/agshaathalla) | PPT |
 | 16521205 | [Aufar Ramadhan](https://github.com/aufarr) | Flowchart |
 | 16521303 | [Hobert Anthony J. (16521303)](https://github.com/HobertJonatan) | Flowchart |
-| 16521161 | [Rachel Gabriela Chen](https://github.com/chaerla) | |
+| 16521161 | [Rachel Gabriela Chen](https://github.com/chaerla) | Backend |
 | 16521075 | [Muhamad Pedro](https://github.com/mpedro22) | PPT |
 | 16521516 | [Ahmad Nadil](https://github.com/IceTeaXXD) | PPT |
 | 16521235 | [Attariq Muhammad A.](https://github.com/attariqazhar) | Flowchart |

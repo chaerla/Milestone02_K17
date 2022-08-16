@@ -1,7 +1,7 @@
 # Solusi : SAH (Sudo Anti Hoax)
 
 <p align="center">
-<img src="pic_assets/logo milestone.jpg" width="50%" height="50%" title="Logo SAH (Sudo Anti Hoax)">
+<img src="assets/logo milestone.jpg" width="50%" height="50%" title="Logo SAH (Sudo Anti Hoax)">
 </p>
 
 ## I. Nomor dan Nama Kelompok

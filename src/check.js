@@ -9,12 +9,6 @@ module.exports = async function check(context, props) {
     const res = await fetch("https://factchecktools.googleapis.com/v1alpha1/claims:search?query=" + query + "&key=" + API_KEY)
     obj = await res.json();
     if (Object.keys(obj).length === 0 && obj.constructor === Object){
-        console.log(`Maaf, klaim yang kamu masukkan tidak sesuai dengan klaim manapun.
-        Silakan coba lagi dengan memperhatikan aspek-aspek berikut:
-        1. Gunakan kata kunci yang lebih sederhana
-        2. Gunakan kata kunci alternatif
-        3. Ubah kata kunci
-        4. Pastikan tidak ada kesalahan penulisan pada kata kunci`);
         await context.sendText(`Maaf, klaim yang kamu masukkan tidak sesuai dengan klaim manapun.
 Silakan coba lagi dengan memperhatikan aspek-aspek berikut:
 1. Gunakan kata kunci yang lebih sederhana
@@ -37,7 +31,6 @@ Silakan coba lagi dengan memperhatikan aspek-aspek berikut:
                 break;
             }
         }
-        console.log(text);
         await context.sendText(text);
     }
 }

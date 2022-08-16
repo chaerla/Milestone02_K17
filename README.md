@@ -15,10 +15,10 @@ Berikut merupakan kelompok para kontributor dalam project ini: <br/>
 
 | NIM | Nama | Job Desc |
 | --------- | ----------- | ----------- |
-| 16521070 | [Akmal Mahardika N.P.](https://github.com/4KMALM)| UI |
+| 16521070 | [Akmal Mahardika N.P.](https://github.com/4KMALM)| UI/UX |
 | 16521477 | [Cathleen Lauretta](https://github.com/cathlauretta) | Lead Design Logo |
 | 16521514 | [Christophorus D.W.](https://github.com/christodharma) | Design Logo dan ReadME.MD |
-| 16521457 | [Filbert Felim](https://github.com/filbertfelim) | UI |
+| 16521457 | [Filbert Felim](https://github.com/filbertfelim) | UI/UX |
 | 16521249 | [Brigita Tri Carolina](https://github.com/BrigitaCarolina) | Backend Fitur /help dan Deploy | 
 | 16521547 | [Agsha Athalla N.](https://github.com/agshaathalla) | PPT |
 | 16521205 | [Aufar Ramadhan](https://github.com/aufarr) | Flowchart |
@@ -27,9 +27,9 @@ Berikut merupakan kelompok para kontributor dalam project ini: <br/>
 | 16521075 | [Muhamad Pedro](https://github.com/mpedro22) | PPT |
 | 16521516 | [Ahmad Nadil](https://github.com/IceTeaXXD) | PPT |
 | 16521235 | [Attariq Muhammad A.](https://github.com/attariqazhar) | Flowchart |
-| 16521334 | [Aulia Mey Diva A.](https://github.com/auliamey) | UI |
+| 16521334 | [Aulia Mey Diva A.](https://github.com/auliamey) | UI/UX |
 | 16521326 | [Silvester Kresna W.P.P](https://github.com/silvester-kw) | Backend fitur about, memikirkan nama bot |
-| 16521318 | [Shidqi Indy Izhari](https://github.com/shidqizh) | UI |
+| 16521318 | [Shidqi Indy Izhari](https://github.com/shidqizh) | UI/UX |
 
 ## III. Petunjuk Penggunaan SAH
 Untuk menggunakan SAH, user harus menambahkan bot terlebih dahulu sebagai friend pada aplikasi LINE dengan menggunakan id @354kntnm. <br>

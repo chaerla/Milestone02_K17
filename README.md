@@ -32,19 +32,14 @@ Berikut merupakan kelompok para kontributor dalam project ini: <br/>
 | 16521318 | [Shidqi Indy Izhari](https://github.com/shidqizh) | UI |
 
 ## III. Petunjuk Penggunaan SAH
-Untuk menggunakan SAH, user harus menambahkan bot terlebih dahulu sebagai friend pada
-aplikasi LINE dengan menggunakan id @354kntnm. Setelah itu, user dapat menggunakan
-salah satu dari ketiga command berikut: /check, /help, dan /about.
-Fungsi /check adalah fungsi utama dari bot ini, yaitu untuk melakukan pengecekan kebenaran
-pada suatu klaim.
-Fungsi /help adalah fungsi yang dapat dipanggil apabila user ingin melihat semua command
-yang tersedia.
-Fungsi /about adalah fungsi yang berisi tentang latar belakang dari pembuatannya
-bot SAH ini.
-Utamanya, user dapat melakukan pengecekan dengan memanggil fungsi /check dan akan mendapatkan
-output berupa klaim, review, pe-review, dan link terusan jika kata kunci klaim memenuhi kriteria.
-Akan tetapi, jika user memasukkan kata kunci klaim yang tidak memenuhi kriteria, bot akan meminta user
-untuk memasukkan input kembali dengan parameter-parameter yang sesuai.
+Untuk menggunakan SAH, user harus menambahkan bot terlebih dahulu sebagai friend pada aplikasi LINE dengan menggunakan id @354kntnm. <br>
+Setelah itu, user dapat menggunakan salah satu dari ketiga command berikut: /check, /help, dan /about. <br>
+- Fungsi /check adalah fungsi utama dari bot ini, yaitu untuk melakukan pengecekan kebenaran pada suatu klaim. <br>
+- Fungsi /help adalah fungsi yang dapat dipanggil apabila user ingin melihat semua command yang tersedia. <br>
+- Fungsi /about adalah fungsi yang berisi tentang latar belakang dari pembuatannya bot SAH ini. <br>
+
+Utamanya, user dapat melakukan pengecekan dengan memanggil fungsi /check dan akan mendapatkan output berupa klaim, review, pe-review, dan link terusan jika kata kunci klaim memenuhi kriteria. <br>
+Akan tetapi, jika user memasukkan kata kunci klaim yang tidak memenuhi kriteria, bot akan meminta user untuk memasukkan input kembali dengan parameter-parameter yang sesuai.
 
 ## IV. Alur Kerja Bot
 ![Flowchart](/assets/Botchat%20Flowchart_K17.png)

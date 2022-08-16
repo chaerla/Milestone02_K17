@@ -40,3 +40,6 @@ Utamanya, user dapat melakukan pengecekan dengan memanggil fungsi /check dan aka
 output berupa klaim, review, pe-review, dan link terusan jika kata kunci klaim memenuhi kriteria.
 Akan tetapi, jika user memasukkan kata kunci klaim yang tidak memenuhi kriteria, bot akan meminta user
 untuk memasukkan input kembali dengan parameter-parameter yang sesuai.
+
+## IV. Alur Kerja Bot
+![Flowchart](https://github.com/chaerla/Milestone02_K17/blob/6bb099041332de6ca0f8ce74ed82c18a9145a279/assets/Botchat%20Flowchart_K17.png)

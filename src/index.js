@@ -6,6 +6,7 @@ const error = require ("./error.js")
 const errorCheck = require("./errorCheck.js")
 
 module.exports = async function App(context) {
+  console.log(context.event.text);
   if (context.event.text.trim() === "/check") {
     return errorCheck;
   } else if (context.event.text.trim().split(' ')[0] === '/check') {

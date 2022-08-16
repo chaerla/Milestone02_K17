@@ -4,6 +4,8 @@
 <img src="assets/logo milestone.jpg" width="50%" height="50%" title="Logo SAH (Sudo Anti Hoax)">
 </p>
 
+Sudo Anti Hoax adalah suatu linebot, yang mengaplikasikan fungsi hoax filter, berfungsi untuk mengatasi permasalahan misinformasi atau hoax. Hoax Filter di sini berperan sebagai sebuah tool yang nantinya menerima input klaim dari penggunanya dan mengembalikan rating/nilai kebenaran dari klaim tersebut berdasarkan sumber-sumber yang valid.
+
 ## I. Nomor dan Nama Kelompok
 
 ### 17 (Sweet Seventeen)

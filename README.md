@@ -13,7 +13,7 @@ Berikut merupakan kelompok para kontributor dalam project ini: <br/>
 
 | NIM | Nama | Job Desc |
 | --------- | ----------- | ----------- |
-| 16521070 | [Akmal Mahardika N.P.](https://github.com/4KMAL)| UI |
+| 16521070 | [Akmal Mahardika N.P.](https://github.com/4KMALM)| UI |
 | 16521477 | [Cathleen Lauretta](https://github.com/cathlauretta) | Design Logo |
 | 16521514 | [Christophorus D.W.](https://github.com/christodharma) | Design Logo |
 | 16521457 | [Filbert Felim](filbertfelim) | UI |

@@ -10,21 +10,21 @@
 
 ## II. Kontribusi Kelompok
 Berikut merupakan kelompok para kontributor dalam project ini: <br/>
-[Akmal Mahardika N.P. (16521070)](https://github.com/4KMAL) <br/>
-[Cathleen Lauretta (16521477)](https://github.com/cathlauretta)<br/>
+[Akmal Mahardika N.P. (16521070)](https://github.com/4KMAL) <br/> : UI
+[Cathleen Lauretta (16521477)](https://github.com/cathlauretta)<br/> : design logo
 [Christophorus D.W. (16521514)](https://github.com/christodharma)<br/>
-[Filbert Felim (16521457)](filbertfelim)<br/>
+[Filbert Felim (16521457)](filbertfelim)<br/> : UI
 [Brigita Tri Carolina (16521249)](https://github.com/BrigitaCarolina)<br/>
-[Agsha Athalla N. (16521547)](https://github.com/agshaathalla)<br/>
-[Aufar Ramadhan (16521205)](https://github.com/aufarr)<br/>
+[Agsha Athalla N. (16521547)](https://github.com/agshaathalla)<br/> : PPT
+[Aufar Ramadhan (16521205)](https://github.com/aufarr)<br/> : flowchart
 [Hobert Anthony J. (16521303)](https://github.com/HobertJonatan)<br/>
 [Rachel Gabriela Chen (16521161)](https://github.com/chaerla)<br/>
-[Muhamad Pedro (16521075)](https://github.com/mpedro22)<br/>
-[Ahmad Nadil (16521516)](https://github.com/IceTeaXXD)<br/>
-[Attariq Muhammad A. (16521235)](https://github.com/attariqazhar)<br/>
-[Aulia Mey Diva A. (16521334)](https://github.com/auliamey)<br/>
+[Muhamad Pedro (16521075)](https://github.com/mpedro22)<br/> : PPT
+[Ahmad Nadil (16521516)](https://github.com/IceTeaXXD)<br/> : PPT
+[Attariq Muhammad A. (16521235)](https://github.com/attariqazhar)<br/> : flowchart
+[Aulia Mey Diva A. (16521334)](https://github.com/auliamey)<br/> : UI
 [Silvester Kresna W.P.P (16521326)](https://github.com/silvester-kw) : backend fitur about, memikirkan nama bot<br/>
-[Shidqi Indy Izhari (16521318)](https://github.com/shidqizh) <br/>
+[Shidqi Indy Izhari (16521318)](https://github.com/shidqizh) <br/> : UI
 
 ## III. Petunjuk Penggunaan SAH
 Untuk menggunakan SAH, user harus menambahkan bot terlebih dahulu sebagai friend pada

@@ -4,12 +4,19 @@
 <img src="assets/logo milestone.jpg" width="50%" height="50%" title="Logo SAH (Sudo Anti Hoax)">
 </p>
 
+Sudo Anti Hoax adalah blabla
+
 ## I. Nomor dan Nama Kelompok
 
 17 (Sweet Seventeen)
 
 ## II. Kontribusi Kelompok
 Berikut merupakan kelompok para kontributor dalam project ini: <br/>
+
+| Syntax      | Description | Tugas |
+| ----------- | ----------- | ----------- |
+| [Akmal Mahardika N.P.](https://github.com/4KMAL)     | 16521070      | UI 
+| Paragraph   | Text        |
 [Akmal Mahardika N.P. (16521070)](https://github.com/4KMAL) : UI <br/>
 [Cathleen Lauretta (16521477)](https://github.com/cathlauretta) : design logo <br/>
 [Christophorus D.W. (16521514)](https://github.com/christodharma) : design logo <br/>
@@ -27,9 +34,7 @@ Berikut merupakan kelompok para kontributor dalam project ini: <br/>
 [Shidqi Indy Izhari (16521318)](https://github.com/shidqizh) : UI <br/>
 
 ## III. Petunjuk Penggunaan SAH
-Untuk menggunakan SAH, user harus menambahkan bot terlebih dahulu sebagai friend pada
-aplikasi LINE dengan menggunakan id @354kntnm. Setelah itu, user dapat menggunakan
-salah satu dari ketiga command berikut: /check, /help, dan /about.
+Untuk menggunakan SAH, user harus menambahkan bot terlebih dahulu sebagai friend pada aplikasi LINE dengan menggunakan id @354kntnm. <br> Setelah itu, user dapat menggunakan salah satu dari ketiga command berikut: /check, /help, dan /about.
 Fungsi /check adalah fungsi utama dari bot ini, yaitu untuk melakukan pengecekan kebenaran
 pada suatu klaim.
 Fungsi /help adalah fungsi yang dapat dipanggil apabila user ingin melihat semua command

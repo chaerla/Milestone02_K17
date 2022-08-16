@@ -1,29 +1,32 @@
-i. Judul Solusi
+# Solusi : SAH (Sudo Anti Hoax)
 
-SAH (Sudo Anti Hoax) 
+<p align="center">
+<img src="pic_assets/'logo milestone.jpg'" width="50%" height="50%" title="Logo SAH (Sudo Anti Hoax)">
+</p>
 
-ii. Nomor dan Nama Kelompok
+## I. Nomor dan Nama Kelompok
 
 17 (Sweet Seventeen)
 
-iii. Kontribusi Kelompok
-Akmal Mahardika N.P. (16521070)
-Cathleen Lauretta (16521477)
-Christophorus D.W. (16521514)
-Filbert Felim (16521457)
-Brigita Tri Carolina (16521249)
-Agsha Athalla N. (16521547)
-Aufar Ramadhan (16521205)
-Hobert Anthony J. (16521303)
-Rachel Gabriela Chen (16521161)
-Muhamad Pedro (16521075)
-Ahmad Nadil (16521516)
-Attariq Muhammad A. (16521235)
-Aulia Mey Diva A. (16521334)
-Silvester Kresna W.P.P (16521326) : backend fitur about, memikirkan nama bot
-Shidqi Indy Izhari (16521318) 
+## II. Kontribusi Kelompok
+Berikut merupakan kelompok para kontributor dalam project ini: <br/>
+[Akmal Mahardika N.P. (16521070)](https://github.com/4KMAL) <br/>
+[Cathleen Lauretta (16521477)](https://github.com/cathlauretta)<br/>
+[Christophorus D.W. (16521514)](https://github.com/christodharma)<br/>
+[Filbert Felim (16521457)](filbertfelim)<br/>
+[Brigita Tri Carolina (16521249)](https://github.com/BrigitaCarolina)<br/>
+[Agsha Athalla N. (16521547)](https://github.com/agshaathalla)<br/>
+[Aufar Ramadhan (16521205)](https://github.com/aufarr)<br/>
+[Hobert Anthony J. (16521303)](https://github.com/HobertJonatan)<br/>
+[Rachel Gabriela Chen (16521161)](https://github.com/chaerla)<br/>
+[Muhamad Pedro (16521075)](https://github.com/mpedro22)<br/>
+[Ahmad Nadil (16521516)](https://github.com/IceTeaXXD)<br/>
+[Attariq Muhammad A. (16521235)](https://github.com/attariqazhar)<br/>
+[Aulia Mey Diva A. (16521334)](https://github.com/auliamey)<br/>
+[Silvester Kresna W.P.P (16521326)](https://github.com/silvester-kw) : backend fitur about, memikirkan nama bot<br/>
+[Shidqi Indy Izhari (16521318)](https://github.com/shidqizh) <br/>
 
-iv. Petunjuk Penggunaan SAH
+## III. Petunjuk Penggunaan SAH
 Untuk menggunakan SAH, user harus menambahkan bot terlebih dahulu sebagai friend pada
 aplikasi LINE dengan menggunakan id @354kntnm. Setelah itu, user dapat menggunakan
 salah satu dari ketiga command berikut: /check, /help, dan /about.

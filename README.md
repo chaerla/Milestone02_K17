@@ -4,37 +4,36 @@
 <img src="assets/logo milestone.jpg" width="50%" height="50%" title="Logo SAH (Sudo Anti Hoax)">
 </p>
 
-Sudo Anti Hoax adalah blabla
-
 ## I. Nomor dan Nama Kelompok
 
-17 (Sweet Seventeen)
+### 17 (Sweet Seventeen)
 
 ## II. Kontribusi Kelompok
 Berikut merupakan kelompok para kontributor dalam project ini: <br/>
 
-| Syntax      | Description | Tugas |
-| ----------- | ----------- | ----------- |
-| [Akmal Mahardika N.P.](https://github.com/4KMAL)     | 16521070      | UI 
-| Paragraph   | Text        |
-[Akmal Mahardika N.P. (16521070)](https://github.com/4KMAL) : UI <br/>
-[Cathleen Lauretta (16521477)](https://github.com/cathlauretta) : design logo <br/>
-[Christophorus D.W. (16521514)](https://github.com/christodharma) : design logo <br/>
-[Filbert Felim (16521457)](filbertfelim) : UI <br/>
-[Brigita Tri Carolina (16521249)](https://github.com/BrigitaCarolina)<br/>
-[Agsha Athalla N. (16521547)](https://github.com/agshaathalla) : PPT <br/>
-[Aufar Ramadhan (16521205)](https://github.com/aufarr) : flowchart <br/>
-[Hobert Anthony J. (16521303)](https://github.com/HobertJonatan)<br/>
-[Rachel Gabriela Chen (16521161)](https://github.com/chaerla)<br/>
-[Muhamad Pedro (16521075)](https://github.com/mpedro22) : PPT<br/>
-[Ahmad Nadil (16521516)](https://github.com/IceTeaXXD) : PPT<br/>
-[Attariq Muhammad A. (16521235)](https://github.com/attariqazhar) : flowchart<br/>
-[Aulia Mey Diva A. (16521334)](https://github.com/auliamey) : UI <br/>
-[Silvester Kresna W.P.P (16521326)](https://github.com/silvester-kw) : backend fitur about, memikirkan nama bot<br/>
-[Shidqi Indy Izhari (16521318)](https://github.com/shidqizh) : UI <br/>
+| NIM | Nama | Job Desc |
+| --------- | ----------- | ----------- |
+| 16521070 | [Akmal Mahardika N.P.](https://github.com/4KMAL)| UI |
+| 16521477 | [Cathleen Lauretta](https://github.com/cathlauretta) | Design Logo |
+| 16521477 | [Cathleen Lauretta](https://github.com/cathlauretta) | Design Logo |
+| 16521514 | [Christophorus D.W.](https://github.com/christodharma) | Design Logo |
+| 16521457 | [Filbert Felim](filbertfelim) | UI |
+| 16521249 | [Brigita Tri Carolina](https://github.com/BrigitaCarolina) | | 
+| 16521547 | [Agsha Athalla N.](https://github.com/agshaathalla) | PPT |
+| 16521205 | [Aufar Ramadhan](https://github.com/aufarr) | Flowchart |
+| 16521303 | [Hobert Anthony J. (16521303)](https://github.com/HobertJonatan) | Flowchart |
+| 16521161 | [Rachel Gabriela Chen](https://github.com/chaerla) | |
+| 16521075 | [Muhamad Pedro](https://github.com/mpedro22) | PPT |
+| 16521516 | [Ahmad Nadil](https://github.com/IceTeaXXD) | PPT |
+| 16521235 | [Attariq Muhammad A.](https://github.com/attariqazhar) | Flowchart |
+| 16521334 | [Aulia Mey Diva A.](https://github.com/auliamey) | UI |
+| 16521326 | [Silvester Kresna W.P.P](https://github.com/silvester-kw) | Backend fitur about, memikirkan nama bot |
+| 16521318 | [Shidqi Indy Izhari](https://github.com/shidqizh) | UI |
 
 ## III. Petunjuk Penggunaan SAH
-Untuk menggunakan SAH, user harus menambahkan bot terlebih dahulu sebagai friend pada aplikasi LINE dengan menggunakan id @354kntnm. <br> Setelah itu, user dapat menggunakan salah satu dari ketiga command berikut: /check, /help, dan /about.
+Untuk menggunakan SAH, user harus menambahkan bot terlebih dahulu sebagai friend pada
+aplikasi LINE dengan menggunakan id @354kntnm. Setelah itu, user dapat menggunakan
+salah satu dari ketiga command berikut: /check, /help, dan /about.
 Fungsi /check adalah fungsi utama dari bot ini, yaitu untuk melakukan pengecekan kebenaran
 pada suatu klaim.
 Fungsi /help adalah fungsi yang dapat dipanggil apabila user ingin melihat semua command

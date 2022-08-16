@@ -12,7 +12,7 @@
 Berikut merupakan kelompok para kontributor dalam project ini: <br/>
 [Akmal Mahardika N.P. (16521070)](https://github.com/4KMAL) : UI <br/>
 [Cathleen Lauretta (16521477)](https://github.com/cathlauretta) : design logo <br/>
-[Christophorus D.W. (16521514)](https://github.com/christodharma)<br/>
+[Christophorus D.W. (16521514)](https://github.com/christodharma) : design logo <br/>
 [Filbert Felim (16521457)](filbertfelim) : UI <br/>
 [Brigita Tri Carolina (16521249)](https://github.com/BrigitaCarolina)<br/>
 [Agsha Athalla N. (16521547)](https://github.com/agshaathalla) : PPT <br/>

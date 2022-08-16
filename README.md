@@ -16,7 +16,7 @@ Berikut merupakan kelompok para kontributor dalam project ini: <br/>
 | 16521070 | [Akmal Mahardika N.P.](https://github.com/4KMALM)| UI |
 | 16521477 | [Cathleen Lauretta](https://github.com/cathlauretta) | Design Logo |
 | 16521514 | [Christophorus D.W.](https://github.com/christodharma) | Design Logo |
-| 16521457 | [Filbert Felim](filbertfelim) | UI |
+| 16521457 | [Filbert Felim](https://github.com/filbertfelim) | UI |
 | 16521249 | [Brigita Tri Carolina](https://github.com/BrigitaCarolina) | Backend | 
 | 16521547 | [Agsha Athalla N.](https://github.com/agshaathalla) | PPT |
 | 16521205 | [Aufar Ramadhan](https://github.com/aufarr) | Flowchart |
